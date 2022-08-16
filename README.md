@@ -1,3 +1,5 @@
+![main](https://github.com/ssssank/ipgeobase/actions/workflows/main.yml/badge.svg)
+
 # Ipgeobase
 
 This gem provide basic geo data about IP-address
